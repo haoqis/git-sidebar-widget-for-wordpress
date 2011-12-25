@@ -10,6 +10,7 @@ A sidebar widget to display your public gists from GitHub.
 
 == Description ==
 A sidebar widget to display your public gists from GitHub. Allows for optional display of creation date and link back to your GitHub profile page. Uses v3 of the GitHub API.
+note: you see this 1.0.1 version is modify by haoqis(http://haoqis.com)
 
 == Installation ==
 
